@@ -9,7 +9,7 @@ const getInfo = (req,res) => {
 
   res.status(200).json({
     email: process.env.EMAIL,
-    current_dateTime: currentDateTime ,
+    current_datetime: currentDateTime ,
     github_url : process.env.GITHUB_URL
   })
 }
