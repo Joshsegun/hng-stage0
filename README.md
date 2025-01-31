@@ -22,3 +22,11 @@ Response example
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/your-repo"
 }
+
+Technologies Used
+-Backend: Node.js, Express.js
+-Hosting: Render
+-Version Control: Git & GitHub
+
+Resources
+Learn more about Node.js: https://hng.tech/hire/nodejs-developers
